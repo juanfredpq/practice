@@ -1,0 +1,10 @@
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/bin/Debug/netstandard2.1/MyMusic.Core.deps.json
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/bin/Debug/netstandard2.1/MyMusic.Core.dll
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/bin/Debug/netstandard2.1/MyMusic.Core.pdb
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/obj/Debug/netstandard2.1/MyMusic.Core.csproj.AssemblyReference.cache
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/obj/Debug/netstandard2.1/MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/obj/Debug/netstandard2.1/MyMusic.Core.AssemblyInfoInputs.cache
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/obj/Debug/netstandard2.1/MyMusic.Core.AssemblyInfo.cs
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/obj/Debug/netstandard2.1/MyMusic.Core.csproj.CoreCompileInputs.cache
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/obj/Debug/netstandard2.1/MyMusic.Core.dll
+/Users/jporras/Downloads/Medium-MyMusic-master/MyMusic.Core/obj/Debug/netstandard2.1/MyMusic.Core.pdb
