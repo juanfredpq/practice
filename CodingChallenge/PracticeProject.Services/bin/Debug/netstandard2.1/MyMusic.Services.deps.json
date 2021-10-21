@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "MyMusic.Services/1.0.0": {
+        "dependencies": {
+          "MyMusic.Core": "1.0.0"
+        },
+        "runtime": {
+          "MyMusic.Services.dll": {}
+        }
+      },
+      "MyMusic.Core/1.0.0": {
+        "runtime": {
+          "MyMusic.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMusic.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMusic.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
